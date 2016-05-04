@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Inne zdjecie.
-datePublished: '2016-05-04T11:46:50.708Z'
-dateModified: '2016-05-04T11:46:27.584Z'
+datePublished: '2016-05-04T11:49:40.109Z'
+dateModified: '2016-05-04T11:49:38.406Z'
 title: Test zdjecie testowe
 author: []
 sourcePath: _posts/2016-05-04-test-zdjecie-testowe.md
@@ -24,8 +24,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea98736a-6e17-4756-b26d-a5aabed1838a.jpg)
-
-# Test. Zdjęcie testowe.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d10bc5e1-e618-4961-92ec-c00711adc21e.jpg)
 
 Inne zdjecie.
