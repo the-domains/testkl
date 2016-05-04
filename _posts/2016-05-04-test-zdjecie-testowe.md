@@ -1,5 +1,6 @@
 ---
-dateModified: '2016-05-04T10:51:07.888Z'
+dateModified: '2016-05-04T10:59:14.467Z'
+datePublished: '2016-05-04T10:59:23.960Z'
 hasPage: false
 inFeed: true
 inNav: false
@@ -7,7 +8,6 @@ title: Test zdjecie testowe
 description: Test. Zdjęcie testowe.
 author: []
 starred: false
-datePublished: '2016-05-04T10:51:23.504Z'
 sourcePath: _posts/2016-05-04-test-zdjecie-testowe.md
 published: true
 _context: 'http://schema.org'
@@ -17,5 +17,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea98736a-6e17-4756-b26d-a5aabed1838a.jpg)
 
 Test. Zdjęcie testowe.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d10bc5e1-e618-4961-92ec-c00711adc21e.jpg)
 
-Te
+Inne zdjecie.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9a56199-f189-4d6f-97be-f89b45303813.jpg)
