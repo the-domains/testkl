@@ -1,4 +1,19 @@
-analytics: {}
+name: testkl
+favicon: null
+layout_spectrum: 0.2402
+typography_spectrum: 0.4429074241014075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -8,11 +23,9 @@ color:
     - '#FAD8D6'
   brandStrength: 0
   lightness: 0.75256
-  rhythmicContrast: 0.484989
   saturation: 0.541911
-cta: {}
-layout_spectrum: 0.004504
-name: testkl
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.4429074241014075
+  rhythmicContrast: 0.484989
+purpose:
+  - name: null
+    item: null
+    url: null
