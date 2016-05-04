@@ -1,14 +1,23 @@
 ---
-dateModified: '2016-05-04T11:27:05.756Z'
-datePublished: '2016-05-04T11:32:15.250Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-title: Test zdjecie testowe
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
 description: Inne zdjecie.
+datePublished: '2016-05-04T11:46:50.708Z'
+dateModified: '2016-05-04T11:46:27.584Z'
+title: Test zdjecie testowe
 author: []
 sourcePath: _posts/2016-05-04-test-zdjecie-testowe.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 _context: 'http://schema.org'
 _type: Article
